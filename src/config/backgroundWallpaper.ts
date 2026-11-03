@@ -39,12 +39,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"https://s41.ax1x.com/2026/08/25/pnppoUe.jpg",
+			"https://s41.ax1x.com/2026/11/03/pn2rDht.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-		    "https://imgchr.com/i/pnp9SUg",
+		    "https://s41.ax1x.com/2026/08/25/pnp9SUg.jpg",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
